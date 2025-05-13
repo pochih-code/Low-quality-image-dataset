@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-# Set the desired quality for lossy compression (1-100)
+# Set the desired quality for lossy compression (0-100)
 Quality = <> 
 
 def compress_image_lossy(input_path, output_path, quality=Quality):
