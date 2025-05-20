@@ -8,17 +8,6 @@ Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/
 
 If you would like to create your own low-quality images, you can use our image processing code available on [Github](https://github.com/pochih-code/Low-quality-image-dataset/tree/main/image%20processing).
 
-## Citation
-If you find this dataset useful for your research, please cite
-```bibtex
-@article{Exdark,
-  title = {Evaluating the Performance of Open-Vocabulary Object Detection in Low-quality Image},
-  author = {Po-Chih Wu},
-  journal = {Computer Vision and Image Understanding},
-  year = {2025},
-  doi = {}
-}
-```
 ## Dataset format
 - coco2017val image blur (25K images)
  - coco_average_4 (5K images)
