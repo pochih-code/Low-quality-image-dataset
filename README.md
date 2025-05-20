@@ -3,7 +3,7 @@
 ## Description
 Dou to the scarcity of suitable image dataset online related to low-quality image, we created a new set of datasets for this study.  Low-quality image dataset is based on the MS COCO 2017 validation images, with images processed into four categories, including lossy compression, image intensity, image noise and image blur.  In total, the dataset comprises 100,000 processed images and is modified by humans to ensure that images are valid in the real world.
 <p align="center">
-  <img src="cover.png" height="400">
+  <img src="cover.png" height="300">
 </p>
 
 
