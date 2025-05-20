@@ -13,5 +13,5 @@ If you would like to create your own low-quality images, you can use our image p
 
 ## Feedback
 We sincerely welcome any feedback on this dataset. Please contact the authors by sending an email to `pochihwu1118 at gmail.com`.
-## License and Copyright
+## License
 The project is open source under `MIT` license. 
