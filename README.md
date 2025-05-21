@@ -15,7 +15,7 @@ Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/
 If you would like to create your own low-quality images, you can use our image processing code available on [Github](https://github.com/pochih-code/Low-quality-image-dataset/tree/main/image%20processing).
  
 <p align="center">
-  <img src="Low-quality.gif" height="200">
+  <img src="Low-quality.gif" height="150">
 </p>
 
 ## Feedback
