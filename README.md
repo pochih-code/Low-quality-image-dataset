@@ -17,19 +17,19 @@ If you would like to create your own low-quality images, you can use our image p
 <p align="center">
   <img src="addGamma.gif" height="200">
 </p>
-image intensity
+<center> Image intensity </center>
 <p align="center">
   <img src="addCompress.gif" height="200">
 </p>
-lossy Compression
+<center> lossy Compression </center>
 <p align="center">
   <img src="addNoise.gif" height="200">
 </p>
-Image Noise
+<center> Image Noise </center>
 <p align="center">
   <img src="addBlur.gif" height="200">
 </p>
-Image Blur
+<center> Image Blur </center>
 
 ## Feedback
 We sincerely welcome any feedback on this dataset. Please contact the authors by sending an email to
