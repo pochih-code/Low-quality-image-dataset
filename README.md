@@ -21,7 +21,9 @@ If you would like to create your own low-quality images, you can use our image p
 <p align="center">
   <img src="addCompress.gif" height="200">
 </p>
-<center> lossy Compression </center>
+<center> 
+  lossy Compression 
+</center>
 <p align="center">
   <img src="addNoise.gif" height="200">
 </p>
