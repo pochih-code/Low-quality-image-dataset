@@ -15,8 +15,25 @@ Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/
 If you would like to create your own low-quality images, you can use our image processing code available on [Github](https://github.com/pochih-code/Low-quality-image-dataset/tree/main/image%20processing).
  
 <p align="center">
+<<<<<<< HEAD
   <img src="Low-quality.mp4" height="200">
+=======
+  <img src="addGamma.gif" height="200">
 </p>
+<p align="center">Image intensity</p> 
+<p align="center">
+  <img src="addCompress.gif" height="200">
+</p>
+<p align="center">Lossy Compression</p> 
+<p align="center">
+  <img src="addNoise.gif" height="200">
+</p>
+<p align="center">Image Noise</p> 
+<p align="center">
+  <img src="addBlur.gif" height="200">
+>>>>>>> 70440d3800a728b694e07dc78d701ecf70b62ee8
+</p>
+<p align="center">Image Blur</p> 
 
 ## Feedback
 We sincerely welcome any feedback on this dataset. Please contact the authors by sending an email to
