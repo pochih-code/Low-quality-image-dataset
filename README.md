@@ -1,6 +1,6 @@
 # Evaluating the Performance of Open-Vocabulary Object Detection in Low-quality Image
 <p align="center">
-  <img src="cover.png" height="300">
+  <img src="cover.jpg" height="250">
 </p>
 
 ## Description

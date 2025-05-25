@@ -7,7 +7,7 @@ output_folder = <image_output_path>  # Replace with the path to your output fold
 os.makedirs(output_folder, exist_ok=True)
 
 # You can adjust this value as needed
-kernel_size = (5, 5)  # Size of the kernel for blurring
+kernel_size = (,)  # kernel size for blurring
 
 for filename in os.listdir(input_folder):
     img_path = os.path.join(input_folder, filename)
