@@ -9,7 +9,7 @@ Dou to the scarcity of suitable image dataset online related to low-quality imag
 
 ## Open-source resource
 
-Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/pochihwu/low-quality-image-dataset) and [Google Drive]().
+Everyone can download the dataset from [Kaggle](https://www.kaggle.com/datasets/pochihwu/low-quality-image-dataset) and [Google Drive](https://drive.google.com/file/d/1-w432b79T6Tj_bhkrFal_fVVLC4eE79t/view?usp=drive_link).
 
 If you would like to create your own low-quality images, you can use our image processing code available on [Github](https://github.com/pochih-code/Low-quality-image-dataset/tree/main/image%20processing).
  
@@ -20,8 +20,10 @@ If you would like to create your own low-quality images, you can use our image p
 ## Feedback
 We sincerely welcome any feedback on this dataset. Please contact the authors by sending an email to
 
-`pochihwu1118 at gmail.com`.
+pochihwu1118 at gmail.com.
 
 ## License
 
-The project is open source under `MIT` license (see the `LICENSE` file).
+This project is open-sourced under the MIT License. 
+You are free to use, modify, and distribute the dataset and associated code. 
+For full details, please refer to the included `LICENSE` file.
